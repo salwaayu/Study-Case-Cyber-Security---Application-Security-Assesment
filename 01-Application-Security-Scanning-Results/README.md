@@ -2,7 +2,7 @@
 
 Terdapat **skenario**:
 
-Anda diminta mendemonstrasikan bagaimana beberapa kerentanan **low/medium severity** bisa dirangkai menjadi impact **critical**.
+Anda diminta melakukan analisis dari masing-masing temuan vulnerability hasil scanning dan mendemonstrasikan bagaimana kerentanan **low/medium severity** bisa dirangkai menjadi impact **critical**.
 
 Temuan mentah dari automated scanner (Burp/Nessus) terhadap aplikasi target:
 <img width="761" height="517" alt="image" src="https://github.com/user-attachments/assets/e5a8d404-3343-4f35-9ab7-190c8cc39b5b" />
